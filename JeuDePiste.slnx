@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="JeuDePiste.Api/JeuDePiste.Api.csproj" />
+  <Project Path="JeuDePiste.Client/JeuDePiste.Client.csproj" Id="ce703a1e-d70d-47a5-ae3a-af1556056171" />
+  <Project Path="JeuDePiste.Shared/JeuDePiste.Shared.csproj" Id="efcb7935-822f-4b4f-9938-642055ea9b5e" />
+  <Project Path="JeuDePiste.Tests/JeuDePiste.Tests.csproj" Id="73d25370-c542-43c7-aee3-4633c96dcc59" />
 </Solution>

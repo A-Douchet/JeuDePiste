@@ -14,4 +14,8 @@
     <ProjectReference Include="..\JeuDePiste.Shared\JeuDePiste.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>
